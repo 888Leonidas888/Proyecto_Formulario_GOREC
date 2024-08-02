@@ -1,0 +1,13 @@
+#enviroment virtual
+.dev
+
+BackEnd/app/__pycache__/
+BackEnd/app/__pycache__/
+BackEnd/app/api/__pycache__/
+BackEnd/app/api/v1/__pycache__/
+BackEnd/app/api/v1/__pycache__/
+BackEnd/app/db/DB_Manager.py
+BackEnd/app/db/__pycache__/
+BackEnd/app/db/__pycache__/
+BackEnd/app/db/__pycache__/
+BackEnd/app/oauth/__pycache__/
